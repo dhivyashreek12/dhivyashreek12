@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Dhivya 👋
 
-<!--
-**dhivyashreek12/dhivyashreek12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Java
+- Web Development
+- DBMS
+- IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Full Stack Development
+- Data Structures & Algorithms
+
+## 🛠 Skills
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
+
+## 📌 Featured Projects
+- 🌐 Portfolio Website
+- 📝 Online Examination System
+- 📡 IoT Smart Project
+- ☕ Java Problem Solving# Hi, I'm Dhivya 👋
+
+🎓 Computer Science Engineering Student
+
+💻 Passionate about:
+- Java
+- Web Development
+- DBMS
+- IoT
+
+🌱 Currently Learning:
+- Full Stack Development
+- Data Structures & Algorithms
+
+## 🛠 Skills
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- Git & GitHub
+
+## 📌 Featured Projects
+- 🌐 Portfolio Website
+- 📝 Online Examination System
+- 📡 IoT Smart Project
+- ☕ Java Problem Solving
